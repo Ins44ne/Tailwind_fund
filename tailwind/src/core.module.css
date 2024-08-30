@@ -1,0 +1,8 @@
+.field {
+  @apply px-2 py-1 rounded-sm text-fuchsia-700 bg-black/10 border-4 border-solid border-transparent duration-500 ease-linear hover:border-green-500 focus:border-purple-700;
+}
+
+.button {
+  @apply flex dark:bg-slate-500  ml-5 border-2 border-pink-500 rounded-lg px-6 py-1 hover:border-pink-200 hover:bg-pink-300 duration-500
+    sm:inline-block mt-5;
+}
